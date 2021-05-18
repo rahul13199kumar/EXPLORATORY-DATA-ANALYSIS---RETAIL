@@ -5,11 +5,11 @@ I have use tool (Python & Tableau).
 
 # Features 
 
-# *  The features Profit and Discounts are highly related.
-# *  Over Less quantity of products also the sales were high.
-# * The maximum quantity of product in demand was in range 2-4.
-# *  The mode of shipping doesn't affect much to the sales
-# *  The Home Office provides highest sales followed by Corporate by a slight variation
+ *  The features Profit and Discounts are highly related.
+ *  Over Less quantity of products also the sales were high.
+ * The maximum quantity of product in demand was in range 2-4.
+ *  The mode of shipping doesn't affect much to the sales
+*  The Home Office provides highest sales followed by Corporate by a slight variation
 
  
 # ScreenShots
